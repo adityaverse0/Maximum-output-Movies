@@ -1,4 +1,4 @@
-# Maximum-Output-Movies 🎬
+# NineRopes! 🎬
 
 **Maximum-Output-Movies** is a sleek and simple movie search website that allows users to **search multiple streaming platforms from a single page**. Fully responsive for **desktop and mobile**, it’s designed for a smooth and modern browsing experience.
 
